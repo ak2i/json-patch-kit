@@ -1,0 +1,8 @@
+{"op":"replace","path":"/description","value":"This object has been modified to demonstrate changes for diff operation."}
+{"op":"replace","path":"/details/updatedAt","value":"2023-04-02T12:00:00Z"}
+{"op":"add","path":"/details/metadata/category","value":"demonstration"}
+{"op":"replace","path":"/details/metadata/version","value":"1.1"}
+{"op":"replace","path":"/details/metadata/tags","value":["sample","data","test","updated"]}
+{"op":"replace","path":"/details/history","value":[{"date":"2023-03-31T11:00:00Z","action":"created"},{"date":"2023-04-01T12:00:00Z","action":"updated"},{"date":"2023-04-02T12:00:00Z","action":"modified"}]}
+{"op":"replace","path":"/components","value":[{"id":101,"type":"componentA","properties":{"color":"red","size":"medium","description":"Component A is designed for demonstration purposes."}},{"id":102,"type":"componentB","properties":{"color":"blue","size":"small","description":"Component B is a complementary component to A, also for demonstration."}},{"id":103,"type":"componentC","properties":{"color":"green","size":"large","description":"Component C is an additional component for extended demonstration."}}]}
+{"op":"replace","path":"/relatedObjects","value":[{"id":2,"relationType":"sibling"},{"id":3,"relationType":"parent"}]}
