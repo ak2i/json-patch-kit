@@ -1,0 +1,32 @@
+{
+  "name": "json-patch-kit",
+  "version": "1.0.0",
+  "description": "Diff and Patch kit for JSON",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak2i/json-patch-kit.git"
+  },
+  "keywords": [
+    "Diff",
+    "Patch",
+    "JSON"
+  ],
+  "author": "ak2i",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ak2i/json-patch-kit/issues"
+  },
+  "homepage": "https://github.com/ak2i/json-patch-kit#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.12.7",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.5"
+  }
+}
